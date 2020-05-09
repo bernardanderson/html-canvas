@@ -1,0 +1,13 @@
+#main-canvas {
+    width: 500px;
+    height: 250px;
+    color: black;
+    background-color: lightcyan;
+}
+
+#secondary-canvas {
+    width: 500px;
+    height: 250px;
+    color: red;
+    background-color: lightslategray;
+}
